@@ -25,5 +25,5 @@ while my_count < my_limit:
     my_list.append(my_value)
     my_count += 1
 
-
+print(F"your input list is {my_list}")
 print(myfunction(my_list))
